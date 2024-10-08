@@ -1,0 +1,120 @@
+html,body{
+    
+}
+#hero{
+    margin-bottom: -180px;
+    
+}
+
+#nav img{
+    height: 10.5vw;
+    width: 12.7vw;
+}
+
+.menu-btn {
+    font-size: 24px;
+    cursor: pointer;
+    color: white;
+}
+
+
+#nav {
+    padding: 3px 15px;
+    color: #fff;
+    background-color: #888;
+    height: 60px;
+}
+
+.login {
+    padding: 1.2vw 1.8vw;
+}
+.menu-btn {
+    padding: 1vw 1.8vw;
+}
+.navbar{
+    height: 100vh;
+    background-color: red;
+    
+    
+}
+
+
+#heading h1 {
+    margin-left: 64px;
+    line-height: 1.5;
+    font-size: 15vw;
+    font-weight: 700;
+}
+#heading #secondh1 {
+    margin-left: 45px;
+}
+#herofooter{
+    display: none;
+}
+
+#cursor{
+    display: none;
+}
+
+#container{
+    margin-top: -350px;
+    width: 85vmin;
+    
+    box-shadow: 15px 20px 100px rgba(30,30,200,0.4);
+}
+
+.wrapper{
+    animation: slide 15s infinite;
+
+}
+#page2{
+    margin-bottom: 100px;
+    padding-right: 0;
+    margin-top: 0;
+}
+#page2 .elem{
+    margin-bottom: 200px;
+    display: flex;
+    flex-direction: column;
+}
+#page2 .elem img{
+    padding-top: 35px;
+    opacity: 10;
+    height: 225px;
+    width: 300px;
+    text-align: center;
+}
+.elemlast{
+    padding-bottom: 200px;
+}
+
+#about img{
+    height: 100px;
+    width: 100px;
+    margin-bottom: -2vh;
+}
+
+#about {
+    padding: 8vw 8vw;
+    flex-direction: column;
+}
+
+#textabout {
+    width: 20rem;
+}
+
+#textabout h5 {
+    font-size: 20px;
+}
+
+#textabout p {
+    line-height: 1.5;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#footerleft{
+    font-size: 10px;
+}
+#footer a{
+    font-size: 8px;
+}
